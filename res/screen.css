@@ -70,6 +70,11 @@
 
 .feedAuthor {
 	font-size: 1.2em;
+	float: left;
+}
+
+.feedRBox {
+	float: left;
 }
 
 .feedTitle {
@@ -79,6 +84,4 @@
 .feedData {
 	border-top: 1px #eee solid;
 	padding: 10px;
-	max-height: 150px;
-	overflow-y: auto;
 }
