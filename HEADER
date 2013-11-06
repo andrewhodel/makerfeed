@@ -28,7 +28,7 @@
       <div class="navbar navbar-fixed-top">
         <div class="navbar-inner">
           <div class="container">
-            <a class="brand" href="#">makerfeed</a>
+            <a class="brand" href="#">makerfeed - all the makers in one place</a>
             <div class="nav-collapse collapse">
               <ul class="nav">
                 <li><a href="/index.html">the feed</a></li>
