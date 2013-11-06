@@ -1,0 +1,18 @@
+
+
+
+      </div>
+
+      <div id="push"></div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p class="muted credit"><a href="https://github.com/andrewhodel/makerfeed">https://github.com/andrewhodel/makerfeed</a></p>
+      </div>
+    </div>
+
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
+
+  </body>
+</html>
