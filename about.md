@@ -10,6 +10,8 @@ In the spirit of open source, makerfeed was built with a Git backend and is host
 
 Any other .md files in the repository are parsed and delivered as .html
 
-https://github.com/andrewhodel/git-wiki allows this site to work in this way.
+The site uses https://github.com/andrewhodel/git-wiki
+
+[TODO](/TODO.html)
 
 *no ads, ever... BTC donations - 1NgDe6ARGkPqKmvQbChyqiNj1xE1LqqVjU*
