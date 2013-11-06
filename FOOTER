@@ -15,10 +15,14 @@
     <script src="/bootstrap/js/bootstrap.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="/res/jquery.lazy.min.js"></script>
+    <script src="/res/jquery.epochago.js"></script>
 
 <script>
 
-jQuery(document).ready(function() { jQuery("img").lazy({ delay: 2000 }); });
+jQuery(document).ready(function() {
+	jQuery("img").lazy({ delay: 2000 });
+	jQuery('.feedCreated').epochago();
+});
 
 </script>
 
