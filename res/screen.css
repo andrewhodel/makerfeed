@@ -61,3 +61,24 @@
 .commitlog {
 
 }
+
+.feedItem {
+	border-bottom: 1px solid #666;
+	margin: 10px;
+	padding: 4px;
+}
+
+.feedAuthor {
+	font-size: 1.2em;
+}
+
+.feedTitle {
+	font-weight: bold;
+}
+
+.feedData {
+	border-top: 1px #eee solid;
+	padding: 10px;
+	max-height: 150px;
+	overflow-y: auto;
+}

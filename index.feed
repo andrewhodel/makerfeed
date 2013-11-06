@@ -1,24 +1,88 @@
-[
+var feeds = [
 
-    {
-        "type": "rss",
-        "feed": "http://blog.reprap.org/feeds/posts/default"
-    },
+// GOOGLE PLUS
+//jon sanford
+{"type": "plus","feed":"106852875595123914060"},
 
-    {
-        "type": "rss",
-        "feed": "http://crapproject.blogspot.com/feeds/posts/default"
-    },
+//Shachar Weis
+{"type": "plus","feed":"117479393665221551027"},
 
-    {
-        "type": "plus",
-        "feed": "104012815742569035024"
-    },
+//Gary Mortimer
+{"type": "plus","feed":"102376668566337441092"},
 
-    {
-        "type": "plus",
-        "feed": "116690520738292888782"
-    }
+//Thomas Sanladerer
+{"type": "plus","feed":"+ThomasSanladerer"},
 
-]
+//Steve Graber
+{"type": "plus","feed":"+SteveGraber"},
 
+//Alberto Valero Gomez
+{"type": "plus","feed":"+AlbertoValeroGomez"},
+
+//Brett Coulthard
+{"type": "plus","feed":"+BrettCoulthard"},
+
+//Whosa whatsis
+{"type": "plus","feed":"+Whosawhatsis"},
+
+//Ultimaker
+{"type": "plus","feed":"105283675489513173942"},
+
+//Michael Overstreet
+{"type": "plus","feed":"110102947837877658520"},
+
+//Gary Hodgson
+{"type": "plus","feed":"+GaryHodgson"},
+
+//Steve Lane
+{"type": "plus","feed":"+SteveLane"},
+
+//Gina Häußge
+{"type": "plus","feed":"106003970953341660077"},
+
+//Nicholas Seward
+{"type": "plus","feed":"+NicholasSeward"},
+
+//calleyasa2
+{"type": "plus","feed":"109153975607234898637"},
+
+//Johann Rocholl
+{"type": "plus","feed":"113691016379554689926"},
+
+//Mongrel Shark
+{"type": "plus","feed":"110054487679760243185"},
+
+//Sanjay Mortimer
+{"type": "plus","feed":"114513371427179260186"},
+
+//Mark Moissette
+{"type": "plus","feed":"112899217323877236232"},
+
+//Anthony Morris
+{"type": "plus","feed":"104012815742569035024"},
+
+//nop head
+{"type": "plus","feed":"115941911408278491291"},
+
+// RSS
+//A reprap breeding program
+{"type":"rss","feed": "http://www.blogger.com/feeds/8889519724947491885/posts/default"},
+
+//coded.be
+{"type":"rss","feed": "http://coded.be/en/taxonomy/term/2/0/feed"},
+
+//reprap builders
+{"type":"rss","feed": "http://builders.reprap.org/feeds/posts/default"},
+
+//ru-reprap
+{"type":"rss","feed": "http://ru-reprap.livejournal.com/data/rss"},
+
+//slic3r blog
+{"type":"rss","feed": "http://slic3r.org/rss"},
+
+//reprapatopolis
+{"type":"rss","feed": "http://www.reprapatopolis.com/feeds/posts/default"}
+
+];
+
+module.exports = feeds;
