@@ -64,6 +64,30 @@ var feeds = [
 //nop head
 {"type": "plus","feed":"115941911408278491291"},
 
+//Chris Vestal
+{"type": "plus","feed":"118015517136463338763"},
+
+//Peter Parnes
+{"type": "plus","feed":"+PeterParnes"},
+
+//Jan Ala
+{"type": "plus","feed":"100654392556599041281"},
+
+//Emmanuel Gilloz
+{"type": "plus","feed":"+EmmanuelGilloz"},
+
+//El. from LTF
+{"type": "plus","feed":"110456748492959289663"},
+
+//RepRap BCN
+{"type": "plus","feed":"106660239696256442101"},
+
+//Shane Graber
+{"type": "plus","feed":"+ShaneGraber"},
+
+//jakolete jakolete
+{"type": "plus","feed":"118434524982057134210"},
+
 // RSS
 //A reprap breeding program
 {"type":"rss","feed": "http://www.blogger.com/feeds/8889519724947491885/posts/default"},
