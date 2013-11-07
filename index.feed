@@ -7,6 +7,12 @@ var feeds = [
 //Robert Murray-Smith
 {"type": "plus","feed":"116449049178438775392"},
 
+//Tim Rastall
+{"type": "plus","feed":"+TimRastall"},
+
+//Paulo Geraldes
+{"type": "plus","feed":"108141516474611142841"},
+
 //Shachar Weis
 {"type": "plus","feed":"117479393665221551027"},
 
