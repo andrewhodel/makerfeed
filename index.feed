@@ -16,6 +16,9 @@ var feeds = [
 //Thomas Sanladerer
 {"type": "plus","feed":"+ThomasSanladerer"},
 
+//3Ders.org
+{"type": "plus","feed":"104041954822527095064"},
+
 //Steve Graber
 {"type": "plus","feed":"+SteveGraber"},
 
