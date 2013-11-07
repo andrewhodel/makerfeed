@@ -4,6 +4,9 @@ var feeds = [
 //jon sanford
 {"type": "plus","feed":"106852875595123914060"},
 
+//Robert Murray-Smith
+{"type": "plus","feed":"116449049178438775392"},
+
 //Shachar Weis
 {"type": "plus","feed":"117479393665221551027"},
 
@@ -82,6 +85,15 @@ var feeds = [
 //RepRap BCN
 {"type": "plus","feed":"106660239696256442101"},
 
+//anthony treacy
+{"type": "plus","feed":"+anthonytreacyhigh1voltage1rules"},
+
+//MaxiiHighVoltage
+{"type": "plus","feed":"110442070301099392575"},
+
+//Pete Ritchie
+{"type": "plus","feed":"104382171661314251457"},
+
 //Shane Graber
 {"type": "plus","feed":"+ShaneGraber"},
 
@@ -105,7 +117,20 @@ var feeds = [
 {"type":"rss","feed": "http://slic3r.org/rss"},
 
 //reprapatopolis
-{"type":"rss","feed": "http://www.reprapatopolis.com/feeds/posts/default"}
+{"type":"rss","feed": "http://www.reprapatopolis.com/feeds/posts/default"},
+
+//youtube not working yet
+//Nicholas Seward
+{"type":"youtube","feed": "nickseward"},
+
+//Rick Osgood
+{"type":"youtube","feed": "OsgoodRick"},
+
+//ZennmasterM
+{"type":"youtube","feed": "ZennmasterM"},
+
+//Josef Prusa
+{"type":"youtube","feed": "prusajr"}
 
 ];
 
